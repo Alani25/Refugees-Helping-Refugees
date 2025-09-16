@@ -17,15 +17,7 @@ export function ProgramsSection() {
       image:
         "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/rhr-pic-2-240x300-4O2Xw3Ia8sK6mTXRuIRkBpaqrKu9ue.jpeg",
       alt: "Case manager helping a client with paperwork",
-    },
-    {
-      title: "Sewing Program",
-      description:
-        "Skill-building program that provides practical training and creates opportunities for economic empowerment",
-      image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/sadiya-pic-300x300-v776O2TXagxWNmyjbFmUxMFlB2Hg3O.jpeg",
-      alt: "Portrait of program participant",
-    },
+    }
   ]
 
   return (
