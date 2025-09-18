@@ -17,14 +17,6 @@ export function ProgramsSection() {
       image:
         "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/rhr-pic-2-240x300-4O2Xw3Ia8sK6mTXRuIRkBpaqrKu9ue.jpeg",
       alt: "Case manager helping a client with paperwork",
-    },{
-
-      title: "Sumayah Alani",
-      description: 
-        "For all your other needs, you can just ask madam Sumayah — she has the answer to everything ;) ",
-      image: 
-        "https://raw.githubusercontent.com/Refugees-Helping-Refugees/Refugees-Helping-Refugees/4a0ccc6fac580d0b9b37fc95d7b4e7a9a0517abf/public/IMG_0061.jpg",
-      alt: "Mr Sumayah (status: single)"
     }
   ]
 
